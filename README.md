@@ -8,28 +8,22 @@ python3.6-制作一个含有NLP基本功能系统（Windows exe）自然语言�
 
 
 #### 软件架构
-软件架构说明
+系统实现：
 
+分词：使用jieba中文分词（去停用词，精确模式）；
+
+词性标注：使用jieba库里的posseg包进行词性标注；
+
+关键词提取：基于lda模型结合tfidf的最合适前六个词；
+
+文本分类：给复旦预料数据进行分词，生成词向量，装袋（词袋模型），接着训练集训练，多次调参，具体参数注释和代码中有，然后再选择相应测试预料进行测试，用的是skleran库的多项式朴素贝叶斯算法。
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0313/171914_f8a5c0df_8773742.png "屏幕截图.png")
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
+使用步骤：打开项目，打开dist文件夹，运行ui.exe即可。
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0313/171918_f9ae3b17_8773742.png "屏幕截图.png")
 
 #### 特技
 
