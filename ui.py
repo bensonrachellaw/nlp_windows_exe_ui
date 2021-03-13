@@ -10,7 +10,7 @@ import codecs
 import pickle
 import docx
 from sklearn.naive_bayes import MultinomialNB  # 导入多项式贝叶斯算法
-#测试
+#test
 tag = 1
 
 def word_read(filepath):
