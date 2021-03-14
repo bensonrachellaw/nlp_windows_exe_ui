@@ -9,7 +9,8 @@ from gensim import corpora
 from gensim.models import LdaModel
 from gensim import models
 from gensim.corpora import Dictionary
-
+#测试使用
+#2021.03.14
 string = u'图书评论是近代报刊业兴起后，在世界各国得到长足发展的一种新型评论体裁。而不论是书评理论还是书评实践都有一个不小的疏漏，即忽视了图书的形式因素。'
 
 
