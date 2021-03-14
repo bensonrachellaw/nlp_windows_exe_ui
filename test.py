@@ -4,7 +4,7 @@ import codecs
 import os
 
 # 文件所在目录
-file_path = "D:\\timQQ_files\\中文文本分类语料（复旦）训练集+测试集（100M）完整版\\train\\C4-Literature"
+file_path = "D:\\***\\中文文本分类语料（复旦）训练集+测试集（100M）完整版\\train\\C4-Literature"
 files = os.listdir(file_path)
 
 for file in files:
