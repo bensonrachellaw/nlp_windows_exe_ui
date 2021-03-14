@@ -1,5 +1,5 @@
 # nlp_windows_exe_ui
-
+[![star](https://gitee.com/bensonrachel/nlp_windows_exe_ui/badge/star.svg?theme=dark)](https://gitee.com/bensonrachel/nlp_windows_exe_ui/stargazers)
 #### 介绍
 python3.6-制作一个含有NLP基本功能系统（Windows exe）自然语言处理系统。系统功能：分词、词性标注、关键词提取、文本分类；由于要打包成exe的关系，我将原本的项目的多个文件的集成到一个python文件（窗体文件）里，只保留了使用这个系统所需要用的函数，方便打包，通俗地讲就是，比如生成词向量过程，装袋过程，模型训练过程的，以及一些中间步骤的程序代码，这些有些涉及很多库的，这些打包进去。但是整个项目里的东西是完整的（包括数据）
 
