@@ -30,6 +30,9 @@ python3.6-制作一个含有NLP基本功能系统（Windows exe）自然语言�
 
 使用Pyinstaller进行命令行打包
 
+本项目已同时import至[github](https://github.com/benson08230539/nlp_windows_exe_ui)
+历时一天~
+
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
 3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
