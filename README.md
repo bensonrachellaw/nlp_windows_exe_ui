@@ -34,3 +34,4 @@ python3.6-制作一个含有NLP基本功能系统（Windows exe）自然语言�
 历时一天~
 
 [gitee地址](https://gitee.com/bensonrachel/nlp_windows_exe_ui)
+[csdn博客地址](https://blog.csdn.net/bensonrachel/article/details/108087340)
